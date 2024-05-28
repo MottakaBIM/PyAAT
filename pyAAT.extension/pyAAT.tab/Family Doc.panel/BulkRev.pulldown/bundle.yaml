@@ -1,0 +1,13 @@
+layout:
+  - UpRev
+  - DownRev
+
+tooltip: Various tools for bulk revisioning sheets.
+
+title: >-
+  Bulk
+
+  revision
+
+author: >-
+  Gavin Crump
